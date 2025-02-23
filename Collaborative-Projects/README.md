@@ -13,4 +13,4 @@ Developed a robust anime recommender system capable of accurately predicting use
 **🛠️ Tech Environment**: Python, pandas, scikit-learn, Seaborn, NLTK, opinion_lexicon, WordCloud 🤖 Machine Learning: SVD ✨ Highlights: Secured 11th place in the Kaggle anime recommender system competition after successfully submitting a prediction, highlighting our proficiency in recommendation models.. 
 
 **📂 View Repository :** https://github.com/LMbewe/Unsupervised-Learning-Team-OA-1.git
-
+![image]([https://github.com/user-attachments/assets/8b68f3ca-68e7-48bd-9d1c-8ece3b17650a)](https://camo.githubusercontent.com/f4de425d3a9a752b0500ede2932578e0fa4a534a61d01c2049d60cd7cc8f6754/68747470733a2f2f7363686f6c61726163652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f4e657773706165722d776974682d6375702d6f662d7465612e6a706567)
