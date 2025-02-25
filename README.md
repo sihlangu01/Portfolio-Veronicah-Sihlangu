@@ -51,3 +51,9 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🚀 Key Projects
+Welcome to my collection of projects! Here, you'll find a mix of both solo ventures and team collaborations that showcase a broad range of skills in data science, machine learning, and analytics. Whether working independently or with others, each project reflects my passion for solving real-world problems with data.
+
+Collaborative Projects
+Join me in exploring the power of teamwork! These projects highlight my ability to collaborate effectively, combining skills from multiple minds to tackle complex challenges together.
+
+https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Collaborative-Projects
