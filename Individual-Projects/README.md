@@ -15,4 +15,4 @@ Developed a Streamlit app to predict the number of likes a TikTok video would re
 **View Project Here:** https://github.com/sihlangu01/TikTok-Like-Prediction
 
 **2.Amazon products reviews analysis**
-![image](C:\Users\vero9\Pictures\Screenshots\Screenshot 2025-02-23 022657.png)
+![image](https://github.com/sihlangu01/Amazon-reviews-analysis/blob/main/Screenshot%202025-02-23%20022657.png?raw=true)
