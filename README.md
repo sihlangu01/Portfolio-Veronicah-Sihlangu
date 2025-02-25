@@ -53,7 +53,24 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 ## 🚀 Key Projects
 Welcome to my collection of projects! Here, you'll find a mix of both solo ventures and team collaborations that showcase a broad range of skills in data science, machine learning, and analytics. Whether working independently or with others, each project reflects my passion for solving real-world problems with data.
 
-Collaborative Projects
+### Collaborative Projects
+
 Join me in exploring the power of teamwork! These projects highlight my ability to collaborate effectively, combining skills from multiple minds to tackle complex challenges together.
 
 https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Collaborative-Projects
+
+### Individual Projects
+
+Dive into the world of solo innovation! These personal projects highlight my independent problem-solving, where I took on data analysis, machine learning, and visualization with full autonomy.
+
+https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Individual-Projects
+
+### 🌐 Let’s Connect!
+Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
+
+
+🚀 **Let’s turn data into insights!**
+
+[LinkedIn]([www.linkedin.com/in/
+veronicah-sihlangu-a465b8260](https://www.linkedin.com/in/veronicah-sihlangu-a465b8260/)
+) 
