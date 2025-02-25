@@ -13,3 +13,6 @@ Developed a Streamlit app to predict the number of likes a TikTok video would re
 **🛠️ Tech Environment**: Python, pandas, scikit-learn, Streamlit, Matplotlib, Seaborn 🤖 Machine Learning: Linear Regression, Decision Trees
 
 **View Project Here:** https://github.com/sihlangu01/TikTok-Like-Prediction
+
+**2.Amazon products reviews analysis**
+![image](C:\Users\vero9\Pictures\Screenshots\Screenshot 2025-02-23 022657.png)
