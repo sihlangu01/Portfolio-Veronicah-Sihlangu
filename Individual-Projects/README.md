@@ -16,3 +16,9 @@ Developed a Streamlit app to predict the number of likes a TikTok video would re
 
 **2.Amazon products reviews analysis**
 ![image](https://github.com/sihlangu01/Amazon-reviews-analysis/blob/main/Screenshot%202025-02-23%20022657.png?raw=true)
+
+This project focused on cleaning, analyzing, and visualizing Amazon product reviews to extract valuable insights. Using SQL for data preprocessing, inconsistencies and missing values were addressed to improve data quality. Power BI was then utilized to create an interactive dashboard, uncovering trends in customer ratings, pricing, and purchasing behavior, providing a clear, business-friendly overview.
+
+**🛠️ Tech Environment**: SQL, Power BI, pandas, Jupyter Notebook.
+
+**View Project Here:**https://github.com/sihlangu01/Amazon-reviews-analysis.git
