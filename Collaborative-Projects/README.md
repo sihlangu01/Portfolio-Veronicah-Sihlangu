@@ -23,7 +23,8 @@ Developed a robust anime recommender system capable of accurately predicting use
 
 Worked with a team to develop a news classification web app using Python and Streamlit. The model categorizes articles into Business, Technology, Sports, Education, and Entertainment, improving accuracy and efficiency for a news outlet. 🚀
 
-**🛠️ Tech Environment**: Anaconda Navigator==2.5.0, Conda==23.7.4, ipykernel==6.25.0, ipython==8.15.0, matplotlib==3.7.2, matplotlib-inline==0.1.6, numpy==1.24.3, pandas==2.0.3, pip==24.0, scikit-learn==1.3.0, scikit-learn-intelex==20230426.121932, scipy==1.11.1, seaborn==0.12.2, SQLAlchemy==1.4.39, stack-data==0.2.0, statsmodels==0.14.0.
+🛠️ Tech Environment: Anaconda Navigator, Conda, ipykernel, IPython, Matplotlib, NumPy, Pandas, scikit-learn, SciPy, Seaborn, SQLAlchemy, Statsmodels
+🤖 Machine Learning: Classification, Data Preprocessing, Model Evaluation
 
 **📂 View Repository :** https://github.com/M0scode/Classification_Project_Team_EG7.git
 
@@ -33,6 +34,7 @@ Worked with a team to develop a news classification web app using Python and Str
 
 Worked with a team to analyze and predict CO2 emissions in the agri-food sector. Using data from the FAO and IPCC, we aimed to uncover trends and factors contributing to carbon emissions from agriculture and food production. The project focused on developing predictive models and sustainable strategies to help policymakers and agricultural businesses reduce emissions and address climate change.
 
-**🛠️ Tech Environment**:anyio==4.2.0, argon2-cffi==21.3.0, beautifulsoup4==4.12.2, Bottleneck==1.3.7, certifi==2024.2.2, cffi==1.16.0, colorama==0.4.6, ipykernel==6.28.0, ipython==8.20.0, joblib==1.4.2, matplotlib==3.9.0, numpy==1.26.4, pandas==2.2.1, scikit-learn==1.5.0, seaborn==0.13.2, statsmodels==0.14.0, requests==2.31.0, scikit-learn==1.5.0, scipy==1.13.0.
+**🛠️ Tech Environment:** Python, pandas, scikit-learn, Seaborn, Matplotlib, SQLAlchemy, Jupyter, NumPy, SciPy, Statsmodels, joblib
+🤖 Machine Learning: Regression, Time Series Forecasting
 
 **📂 View Repository :** https://github.com/justin9503/RegressionSprint_2401FTDSTeam_EG1.git
