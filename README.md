@@ -57,13 +57,13 @@ Welcome to my collection of projects! Here, you'll find a mix of both solo ventu
 
 Join me in exploring the power of teamwork! These projects highlight my ability to collaborate effectively, combining skills from multiple minds to tackle complex challenges together.
 
-https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Collaborative-Projects
+[collaborative projects](https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Collaborative-Projects)
 
 ### Individual Projects
 
 Dive into the world of solo innovation! These personal projects highlight my independent problem-solving, where I took on data analysis, machine learning, and visualization with full autonomy.
 
-https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Individual-Projects
+[individual projects](https://github.com/sihlangu01/Portfolio-Veronicah-Sihlangu/tree/main/Individual-Projects)
 
 ### 🌐 Let’s Connect!
 Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
